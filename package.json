@@ -1,0 +1,32 @@
+{
+  "name": "azure-service-bus-client",
+  "version": "1.0.0",
+  "description": "Azure Service Bus wrapper for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baacco/azure-service-bus-client.git"
+  },
+  "keywords": [
+    "azure",
+    "service",
+    "bus",
+    "messaging",
+    "queues"
+  ],
+  "author": "Baacco Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baacco/azure-service-bus-client/issues"
+  },
+  "homepage": "https://github.com/baacco/azure-service-bus-client#readme",
+  "dependencies": {
+    "agentkeepalive": "^2.0.5",
+    "azure": "^0.10.6",
+    "chai": "^3.5.0",
+    "sinon": "^1.17.3"
+  }
+}
