@@ -1,6 +1,6 @@
 {
   "name": "azure-service-bus-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure Service Bus wrapper for node.js",
   "main": "index.js",
   "scripts": {
